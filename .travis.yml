@@ -9,3 +9,4 @@ compiler:
 
 # Build steps
 script:
+  - g++ main.cpp
